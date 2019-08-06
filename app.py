@@ -28,3 +28,4 @@ def download():
 
 if __name__ == "__main__":
     app.run(port=9000, host="0.0.0.0", debug=False)
+"""Easy to use - Simpe to create the wallet and start to use<br>A Robust team - We have a very professional team to dock the blokchain that meets the BIP32 specification.<br>Fast, Safe and efficiency - We don't store user's private keys, its just fast and efficient"""
